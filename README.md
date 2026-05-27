@@ -111,7 +111,7 @@ Java の tree-sitter パーサーを実装。`method_declaration`・`constructor
 **翌日の予定**
 JS/TS パーサーおよび正規表現フォールバックの実装
 
----
+---从这里开始
 
 ## Day 9
 
